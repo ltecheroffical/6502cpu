@@ -1,0 +1,7 @@
+.cache/
+
+offiline/
+out/
+build/
+
+compile_commands.json
